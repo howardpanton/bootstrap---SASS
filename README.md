@@ -5,6 +5,20 @@ Bootstrap is Twitter's toolkit for kickstarting CSS for websites, apps, and more
 
 To get started -- checkout http://twitter.github.com/bootstrap!
 
+Sass/Compass Conversion
+=================
+
+The Twitter Bootstrap was lovingly converted to SCSS by:
+I have included the compass config file
+
+**Howard Panton**
+
++ http://twitter.com/howardpanton
++ http://github.com/howardpanton
++ http://www.projeckt13.com
+
+Please feel free to contribute, fork and update.
+
 
 Versioning
 ----------
